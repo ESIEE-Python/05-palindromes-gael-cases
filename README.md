@@ -25,7 +25,7 @@ Pour traiter efficacement le problème des caractères accentués, utiliser la m
 
     $ python main.py
 
-4️⃣ Une fois le code fonctionnel, le soumettre aux tests unitaires. Le grade obtenu est le pourcentage de tests réussis. 
+4️⃣ Une fois le code fonctionnel, le soumettre aux tests unitaires. Le grade obtenu est le pourcentage de tests réussis.
 
     $ pytest .python
 
